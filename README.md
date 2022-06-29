@@ -7,10 +7,10 @@ X
 Are you ready to play? Enter Yes or No.
 Yes
 <body>
-   | &nbsp;  |<br>
-   |   |<br> 
-   |   |<br>
------------
+   | &nbsp;&nbsp;  |<br>
+   | &nbsp;&nbsp;  |<br> 
+   | &nbsp;&nbsp;  |<br>
+----------- <br>
    |   |
    |   |  
    |   |
