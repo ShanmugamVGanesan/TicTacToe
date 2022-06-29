@@ -6,7 +6,7 @@ X
 
 Are you ready to play? Enter Yes or No.
 Yes
-
+<body>
    |   |
    |   |  
    |   |
@@ -18,7 +18,7 @@ Yes
    |   |
    |   |  
    |   |
-
+</body>
 Choose your next position: (1-9)
 1
 
