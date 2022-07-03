@@ -23,15 +23,15 @@ Choose your next position: (1-9)<br>
 1<br>
 
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>
- &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>  
+ &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>
 -----------<br>
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>
- &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>  
+ &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br> 
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;   |<br>
 -----------<br>
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;  |<br>
- X | &nbsp;&nbsp;&nbsp;&nbsp;  |<br>  
+ X | &nbsp;&nbsp;&nbsp;&nbsp;  |<br> 
  &nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;  |<br>
 
 .<br>
